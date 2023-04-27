@@ -1,4 +1,4 @@
-# Do the following steps to run this example :
+# Execute the following steps to run this example :
 
 1. Activate virtualenv - python version >= 3.8.13
 run `python3 -m venv virtualenv in the root directory`
